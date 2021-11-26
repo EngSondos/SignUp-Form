@@ -1,0 +1,69 @@
+body{
+	background-image :url(img/5.jpg);
+}
+h1{
+	float: left;
+	color: gray;
+	margin-left: 5%;
+}
+.container{
+	display: flex;
+	margin-top: 5%;
+
+}
+.imageform{
+	width: 400px;
+	height: 500px; 
+	margin-left: 23%;
+}
+.LoginForm{
+	text-align: center;
+	color: white;
+	background-color: #000051  ;
+	width: 400px;
+	height: 500px;
+}
+input{
+  border: none;
+  float: left;
+  margin-top: 8%;
+  margin-left: 5%;
+}
+.inputlogin{
+	width: 350px;
+	height: 30px;
+    border-bottom: 2px solid gray;
+    background-color: transparent;	
+    color: gray; 
+    
+}
+.SubmitLoginForm{
+	display: inline-block;	
+	width: 100px;
+	height: 40px;
+	color: white;
+	background-color: #008CBA; /*blue*/
+	text-align: center;
+	border-radius: 2px;
+}
+.SubmitLoginForm:hover{
+	  background-color: #000051;
+	color: white;
+
+}
+#signin{
+	color: grey;
+	margin-top: 112%;
+	margin-left: 50%;
+	display: flex;
+}
+#skype{
+	    text-decoration: none;
+	    color: white;
+}
+p{
+	color: white;
+		    margin-left: 100px;
+		    margin-top: 60px;
+
+}
